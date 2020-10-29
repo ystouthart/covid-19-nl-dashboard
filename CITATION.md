@@ -1,3 +1,3 @@
 Please cite this project as follows:
 
-Yannick Stouthart (2020),  COVID-19 NL Dashboard - version 0.1.0. url: github.com/ystouthart/covid-19-nl-dashboard
+Yannick Stouthart (2020),  COVID-19 Projects - version 0.1.0. url: github.com/ystouthart/covid-projects

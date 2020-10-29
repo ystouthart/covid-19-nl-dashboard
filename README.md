@@ -1,8 +1,8 @@
-# COVID-19 NL Dashboard
+# COVID-19 Projects
 
 Version 0.1.0
 
-COVID-19 Dashboard project
+COVID-19 Projects
 
 
 ## Project organization
